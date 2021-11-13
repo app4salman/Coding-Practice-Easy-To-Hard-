@@ -1,6 +1,6 @@
 # Easy Coding Practice
 
-Tournament Winner
+Question 1: Tournament Winner
 
   There's an algorithms tournament taking place in which teams of programmers
   compete against each other to solve algorithmic problems as fast as possible.
@@ -38,5 +38,8 @@ Tournament Winner
 
     Sample Output:
     Python
-
+	
+	Optimal Space & Time Complexity:
+	O(n) time | O(k) space - where n is the number of competitions and k is the number of teams
+----------------------------------------------------------------------------------------------------------------------------------------------
 
